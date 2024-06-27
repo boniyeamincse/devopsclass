@@ -34,3 +34,45 @@ After completing this course, students will be able to:
 - Overall Computer Science Knowledge
 - Logical Attitude
 - Passion
+
+  ## Course Duration
+
+| Name of the Course   | Duration of Course          |
+|----------------------|-----------------------------|
+| DevOps Engineering   | Total Duration = 160 Hours (Technical & Soft Skills) |
+|                      |   - Technical (Core) = 120 Hours |
+|                      |   - Soft Skills = 40 Hours   |
+|                      |   - 3 Days per week, 3 Hours per day |
+
+### Session Details
+
+#### DevOps Fundamentals
+
+- **Class-1:** Introduction of DevOps
+- **Class-2:** Prepare Lab Environment
+
+#### Web Server
+
+- **Class-3:** Basic Understanding of Web Servers with Real Examples.
+- **Class-4:** Install and Configure Web Server Basic to Advance
+- **Class-5:** Virtual Hosting (Apache, Nginx), Reverse Proxy
+- **Class-6:** Install SSL Certificate, HA proxy Installation and configuration.
+
+#### Ansible Configuration Management
+
+- **Class-7:** Automation concept for Linux server
+- **Class-8:** Install and Configure Ansible, Run Ad Hoc Command
+- **Class-9:** Write Ansible Playbook, Use Ansible Galaxy
+
+#### GIT Version Controlling
+
+- **Class-10:** GIT Features, 3-Tier Architecture
+- **Class-11:** GIT Clone, Commit, Push, Pull, GIT Merge, Rebase, Stash, Reset, Checkout
+
+#### Jenkins CI/CD Pipeline
+
+- **Class-12:** Install and Configure Jenkins
+- **Class-13:** Different types of Jenkins Jobs
+- **Class-14:** Jenkins Master & Slave Node Configuration
+- **Class-15:** Jenkins Build Pipeline (Sequential Builds, Jenkins file)
+
